@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Everything that has to do with Software Development
 - 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on ... Web Projects, Web apps, Mobile apps, most of all * Algorithmic Trading*
-- 📫 How to reach me ... Send me an email at crallophades@gmail.com
+- 📫 How to reach me ... Get in contact with me via Linkedin 
 
 <!---
 mpethamotaung/mpethamotaung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
