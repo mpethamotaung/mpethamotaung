@@ -8,6 +8,4 @@ Hi, I'm Mpetha Motaung, a dedicated Software Engineer with a passion for creatin
 📚 **Technical Proficiencies:** 
 Backend Development, Frontend Development, Database management, Cloud Infrastructure/Computing, Windows, Linux and Linux Server, Networking, IT Administration, IT Support/Help Desk
 
-📫 How to reach me:
-Email: mpethamotaung@gmail.com
-Phone: +27 67 975 4882
+📫 **How to reach me:** mpethamotaung@gmail.com | +27 67 975 4882
