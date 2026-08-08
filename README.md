@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+📫 *How to reach me:*
+Email: mpethamotaung@gmail.com
+Phone: +27 67 975 4882
