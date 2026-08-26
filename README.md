@@ -1,10 +1,11 @@
 ## "We're in." 👨‍💻
 
-💼 Hi, I'm Mpetha Motaung, a dedicated Software Engineer with a passion for creating efficient and innovative software solutions. With over half a decade of experience and a strong foundation in computer science and hands-on experience in various programming languages, frameworks, and systems, I specialize in developing robust applications that meet user needs and business objectives. My sheer perspicacity, indefatigability, and commitment to continuous learning - makes me an unmatched opponent in this field.
+Hi, I'm Mpetha Motaung. I've been building software professionally for over five years, working across the stack—from backend systems and databases to cloud infrastructure and Linux servers. I also bring hands-on experience in IT administration and support, which gives me a practical, grounded approach to development.
 
-🧐 **Current Focus:** Career Growth and Mentorship
+I care about writing code that's solid, maintainable, and actually solves real problems for users and businesses. Right now, I'm focusing on leveling up my career and mentoring other developers along the way.
 
-📚 **Technical Proficiencies:** 
-Backend Development, Frontend Development, Database management, Cloud Infrastructure/Computing, Windows, Linux and Linux Server, Networking, IT Administration, IT Support/Help Desk
+Check out my repos—you'll find a banking system, a portfolio site, and a few other projects I've enjoyed building.
 
-📫 **How to reach me:** mpethamotaung@gmail.com | +27 67 975 4882
+**Tech I work with:** Backend & Frontend Dev, Database Management, Cloud Computing, Windows/Linux, Networking, IT Admin & Support
+
+📫 **Reach me:** [mpethamotaung@gmail.com](mailto:mpethamotaung@gmail.com) | +27 67 975 4882
